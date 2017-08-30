@@ -29,7 +29,7 @@ body > .container {
   padding-left: 15px;
 }
 
-#aboutMe > h3, #engineeringKnowledgeAndInterests h4, #projects h3, #contact > h2, #languages > h2{
+.jumbotron > h2, #aboutMe > h3, #engineeringKnowledgeAndInterests > h2, #engineeringKnowledgeAndInterests h4, #codingSkillsAndTechnologies > h2, #projects h3, #contact > h2, #languages > h2{
   font-weight: normal;
   text-align: justify;
 text-justify: inter-word;
