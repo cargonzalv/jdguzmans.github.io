@@ -6,7 +6,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }
 
 .footer {
@@ -14,12 +14,12 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 70px;
   background-color: #f5f5f5;
 }
 
 body > .container {
-  padding: 60px 15px 0;
+  padding: 70px 15px 0;
 }
 
 .container .text-muted {
@@ -29,4 +29,8 @@ body > .container {
 .footer > .container {
   padding-right: 15px;
   padding-left: 15px;
+}
+
+#aboutMe > h3, #engineeringKnowledgeAndInterests h4, #projects h3{
+  font-weight: normal;
 }
