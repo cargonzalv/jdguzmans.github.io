@@ -29,8 +29,12 @@ body > .container {
   padding-left: 15px;
 }
 
-#aboutMe > h3, #engineeringKnowledgeAndInterests h4, #projects h3, #contact h2, #contact h4{
+#aboutMe > h3, #engineeringKnowledgeAndInterests h4, #projects h3, #contact > h2, #languages > h2{
   font-weight: normal;
   text-align: justify;
 text-justify: inter-word;
+}
+
+#languages blockquote {
+  margin-top: 30px;
 }
