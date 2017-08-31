@@ -38,3 +38,10 @@ text-justify: inter-word;
 #languages blockquote {
   margin-top: 30px;
 }
+
+.img-circle{
+  width:150px;
+  height:150px;
+  display:block;
+  margin:auto;
+}
